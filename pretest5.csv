@@ -1,0 +1,110 @@
+userid;gradeto;subfamilynameto;corporatetitleto;eventto;fired;fullpathto;deptto;topdeptto;regionto;agefake;classfake;groupfake
+1000;15;Product Marketing;VP Product Marketing;Data Change;0;ProdMkt;Product Marketing;ProdMkt;Russia;77;1;A
+10000;10;Software Engineering;Senior Developer;Data Change;0;FutureTechSecPlat;Secure Platform Development;FutureTech;Russia;77;1;A
+10001;10;Software Engineering;Senior Research Developer;Transfer;0;R&DPDOLinuxKICSNetwIndPDK;KICS for Networks Industrial PDK;PDO;Russia;77;1;A
+10002;7;Test Engineering R&D;Testing Engineer;Data Change;0;R&DIDOIntDevPlatform;Platform Development;IDO;Russia;77;1;A
+10003;9;Software Engineering;Developer;Data Change;0;InIPA;Privacy Audit;InI;Russia;77;1;A
+10004;8;IT Service Development;Developer;Data Change;0;ITSrvsDvptSolutImpl;IT Solutions Implementation;IT;Russia;77;1;A
+10005;1;Intern;Intern;Termination;1;FinanceFinSyst;Finance Systems Support;Finance;Russia;77;1;A
+10006;1;Intern;Intern;Termination;1;ITSrvsDvptInfra&PartPrIntSrvSup;Product Integration Services Support;IT;Russia;77;1;A
+10007;1;Intern;Intern;Data Change;0;R&DIDOSAOUnix;Unix;IDO;Russia;77;1;A
+10008;1;Intern;Intern;Data Change;0;ITITServDeskExpertSupportDataCenter;IT Infrastructure Maintenance;IT;Russia;77;1;A
+10009;1;Intern;Intern;Termination;1;ITITServDeskExpertSupportDataCenter;IT Infrastructure Maintenance;IT;Russia;77;1;A
+1001;6;Technology Research;Malware Analyst;Termination;1;R&DXAMWR;Anti-Malware Research;R&D;Russia;77;1;A
+10010;1;Intern;Intern;Job Change;0;ITITServDeskExpertSupportDataCenter;IT Infrastructure Maintenance;IT;Russia;77;1;A
+10011;4;PR  Corporate Communication;Corporate Communications Coordinator;Termination;1;HRComp&AnalytTEST;TEST;HR;APAC;77;1;A
+10012;11;Enterprise Sales;Head of Enterprise Sales Germany;Data Change;0;EUDACHB2BEnt;EU DACH B2B Ent;EU;Europe;77;1;A
+10013;9;ERP & Applications;Senior Marketing Automation Manager;Data Change;0;SalesOpsEnable;Sales Enablement;SalesOps;Russia;77;1;A
+10014;8;Software Engineering;Software Development Engineer in Test;Data Change;0;R&DPDOWindowsCorporateAutotest;Test Automation;PDO;Russia;77;1;A
+10015;8;Channel Sales;Channel Sales Manager;Data Change;0;RussiaSTANChannelResellerB2B;Resellers Partner Management B2B;RussiaSTAN;Russia;77;1;A
+10016;5;Employee Relations;Military Specialist;Data Change;0;HRStaffAdmin;Staff Administration;HR;Russia;77;1;A
+10017;6;Talent Acquisition & Management;Recruitment Manager;Data Change;0;HRAcq&BrandRecrSM&RD;Recruitment S&M and R&D;HR;Russia;77;1;A
+10018;9;IT Service Development;Development Team Lead;Leave of Absence;0;ITSrvsDvptSolutImpl;IT Solutions Implementation;IT;Russia;77;1;A
+10019;9;Software Engineering;Developer;Data Change;0;R&DCloud&WebWebDevMyKDev;MyKaspersky Development;Cloud&Web;Russia;77;1;A
+1002;0;Project Management;Marketing Group Manager;Termination;1;EUBusMarkMarkCamp;Marketing Campaigns;EU;Europe;77;1;A
+10020;1;Intern;Intern;Job Change;0;MktBrandProduction;Marketing Production;Mkt;Russia;77;1;A
+10021;5;Accounting;Accountant;Termination;1;FinanceVSSIAcc&ReportVSSI;Accounting & Reporting VSSI;Finance;Russia;77;1;A
+10022;7;Sales Planning & Analysis;Sales Back Office Manager;Data Change;0;SalesOpsBackOfficeCentr;Sales Back Office Central;SalesOps;Russia;77;1;A
+10023;1;Office Security;Security Guard;Data Change;0;LegalSecurSecurityOfficeSecurity;Office Security;LegalSecur;Russia;77;1;A
+10024;8;Business Process;Business Process Manager;Data Change;0;R&DIDOOperDeliv;Operations Delivery;IDO;Russia;77;1;A
+9955;1;Intern;Intern;Data Change;0;R&DPDOCoreTechTestCommon;Common Components Quality Control;PDO;Russia;77;1;A
+9956;1;Intern;Intern;Job Change;0;ProdMktQA&Risk;Quality Audit & Risk Assessment;ProdMkt;Russia;77;1;A
+9957;8;IT Service Development;Developer;Data Change;0;ITSrvsDvptProdServTools;Analytic Tools Development;IT;Russia;77;1;A
+9958;11;Software Engineering;Software Expert;Data Change;0;R&DPDOCoreTechProtectCoreDriv;Core Drivers Development;PDO;Russia;77;1;A
+9959;5;Technology Research;Junior Security Services Analyst;Job Change;0;InITIRS;Tailored Intelligence Reporting System;InI;Russia;77;1;A
+996;0;System Analysis R&D;System Analysts Group Manager;Termination;1;R&DXSAXCorpProd;Corporate Products System Analysis;R&D;Russia;77;1;A
+9960;1;Intern;Intern;Data Change;0;R&DIDOIntDevPlatform;Platform Development;IDO;Russia;77;1;A
+9961;1;Intern;Intern;Data Change;0;R&DPDOCoreTechProtectCoreDriv;Core Drivers Development;PDO;Russia;77;1;A
+9962;1;Intern;Intern;Data Change;0;R&DServicesSecAnalysis;Security Services Analysis;Services;Russia;77;1;A
+9963;1;Intern;Intern;Termination;1;R&DTRAMWRAMTDAntiRootkit;Anti-Rootkit Technologies;R&D;Russia;77;1;A
+9964;1;Intern;Intern;Data Change;0;R&DIDOIntDevPlatform;Platform Development;IDO;Russia;77;1;A
+9965;1;Intern;Intern;Data Change;0;R&DPDOMobileTest;Mobile Solutions Testing;PDO;Russia;77;1;A
+9966;5;Technology Research;Junior Malware Analyst;Data Change;0;R&DTRAMWRAntiMWShiftAV;Shift AV Analysts;TR;Russia;77;1;A
+9967;6;Software Engineering;Junior Developer;Data Change;0;R&DPDOEPMKSCDev;KSC Development;PDO;Russia;77;1;A
+9968;5;Technology Research;Junior Malware Analyst;Data Change;0;R&DTRAMWRAMRATR&DBehavior;Behavior Detection;TR;Russia;77;1;A
+997;12;Product Architecture;Lead Software Architect;Data Change;0;R&DCloud&Web;Cloud Infrastructure & Web Development;Cloud&Web;Europe;77;1;A
+9971;1;Intern;Intern;Job Change;0;HROpsSupport;HR Support;HR;Russia;77;1;A
+9972;11;Technical Project Management;Deputy Head of Security Awareness Technologies;Data Change;0;InISAT;Security Awareness Trainings;InI;Russia;77;1;A
+9973;10;Retail Sales;Head of Tangible Sales LatAm;Transfer;0;LatAmDistr;ESD Distribution;LatAm;LatAm;77;1;A
+9974;9;Channel Sales;Channel Account Manager;Data Change;0;EUDACHB2BSMBChannel;Channel Sales DACH;EU;Europe;77;1;A
+9976;8;Channel Sales;Channel Sales Manager Austria;Data Change;0;EUDACHB2BA-CH;A-CH;EU;Europe;77;1;A
+9977;7;Test Engineering R&D;Testing Engineer;Data Change;0;R&DPDOWindowsCorporateJPTest;Corporate Products Testing Japan;PDO;Japan;77;1;A
+9978;8;Market Analysis;Business Intelligence Analyst;Data Change;0;SalesOpsSalesPAC;Sales Planning Analysis & Control;SalesOps;Russia;77;1;A
+9979;7;PR  Corporate Communication;Corporate Communications Manager;Data Change;0;CorpCommPRTechPR;Technology&Product PR;CorpComm;Russia;77;1;A
+998;1;Logistics;Courier;Termination;1;XGDEEMEAXKLRussiaXDelivery;NoName;X GD EEMEA;Russia;77;1;A
+9980;6;ERP & Applications;Application Support Analyst;Data Change;0;ITSrvsDvptSolutImplSupport;Support and Development Solutions;IT;Russia;77;1;A
+9982;1;Intern;Intern;Data Change;0;R&DPDOWindowsConsTest;Consumer Products Testing;PDO;Russia;77;1;A
+9983;1;Intern;Intern;Data Change;0;R&DPDOMobileTest;Mobile Solutions Testing;PDO;Russia;77;1;A
+9984;1;Intern;Intern;Data Change;0;R&DPDOCoreTechTestUpdMod;Updatable Modules Quality Control;PDO;Russia;77;1;A
+9985;8;Legal General;Junior Legal Counsel;Data Change;0;LegalSecurCorpLgl;Corporate Law;LegalSecur;Russia;77;1;A
+9988;9;Software Engineering;Developer;Data Change;0;R&DPDOWindowsConsDevProd;Products Development;PDO;Russia;77;1;A
+9989;9;Enterprise Sales;Enterprise Account Manager;Data Change;0;METAMEB2BEnterprise;Enterprise;META;META;77;1;A
+999;8;Product Management;Product Manager;Termination;1;XBDB2BXProduct;Product Marketing;X BD B2B;Russia;77;1;A
+9990;1;Intern;Intern;Termination;1;FinanceEMLogist;Logistics;Finance;Russia;77;1;A
+9992;8;General Marketing;Marketing Manager Andean;Transfer;0;LatAmAndeanMark;Marketing;LatAm;LatAm;77;1;A
+9994;1;Intern;Intern;Data Change;0;R&DPDOWindowsConsTest;Consumer Products Testing;PDO;Russia;77;1;A
+9996;6;Localization R&D;Localization Engineer;Termination;1;R&DIDODoc&LocEP;Doc&Loc Endpoint;R&D;Russia;77;1;A
+9997;4;Help Desk End User;System Administrator Helpdesk;Data Change;0;ITITServDeskITHelpDeskEndUsers;End Users Support;IT;Russia;77;1;A
+9999;6;OfficeClerical Service;Office Manager;Termination;1;FinanceAPACKoreaFacilities;Facilities Korea;Finance;APAC;77;1;A
+7441;7;SMB Sales;SMB Sales Manager;Rehire;0;NorthAmericaB2BChannelEast;East;NorthAmerica;NorthAmerica;77;1;A
+7442;9;PresalesSales Engineering;Senior Sales Engineer;Termination;1;APACChinaPresales;Presales China;APAC;APAC;77;1;A
+7443;6;IT Technical Writing;Technical Writer;Data Change;0;ITSrvsDvptTecDocDvpt;Technical Documentation Development;IT;Russia;77;1;A
+7444;8;IT Technical Writing;Senior Technical Writer;Data Change;0;ITSrvsDvptTecDocDvpt;Technical Documentation Development;IT;Russia;77;1;A
+7445;7;IT System Analysis;System Analyst;Termination;1;SupportExclKnowledgeAnlAutomProcess;Processes Automation;Support;Russia;77;1;A
+7446;9;Product Marketing;Investment Projects Analysis Manager;Data Change;0;InI;Investment & Innovation;InI;Russia;77;1;A
+7447;12;Product Management;Acting Head of B2C Product Management;Data Change;0;R&DPMOB2C;B2C Products;PMO;Russia;77;1;A
+7448;6;Brand Development;Employer Branding Specialist;Data Change;0;HRAcq&BrandBrand;Employer Branding;HR;Russia;77;1;A
+7449;10;Security Services;Lead Application Security Specialist;Data Change;0;R&DServicesAssessmAppSec;Application Security;Services;Russia;77;1;A
+745;0;Channel Sales;X Senior Sales Manager;Termination;1;XGDAmericasXSales;Sales;X GD Americas;NorthAmerica;77;1;A
+7450;9;Security Services;Application Security Specialist;Termination;1;R&DServicesAssessmAppSec;Application Security;R&D;Russia;77;1;A
+7451;1;;Working Student Corporate Communications;Termination;1;CorpCommPR;Public Relations;CorpComm;Europe;77;1;A
+7452;7;Regional B2B Technical Support;Technical Account Manager;Termination;1;SupportEUUK;Customer Support UK & Ireland;Support;Europe;77;1;A
+7453;8;General Marketing;Marketing Manager B2B;Termination;1;StrMktB2BCustMark&Camp;Customer Marketing and Campaigns;StrMkt;Europe;77;1;A
+7454;6;Regional B2B Technical Support;Technical Support Engineer;Data Change;0;SupportEUDACH&EE;Customer Support DACH & EE;Support;Europe;77;1;A
+7455;7;Technology Research;Senior Web Content Analyst;Data Change;0;R&DTRCFRAnalysis;Content Analysis & Research;TR;Russia;77;1;A
+7456;7;PR  Corporate Communication;Business Socialization Manager;Termination;1;CorpCommSocialMedia;Social Media Relations;CorpComm;Russia;77;1;A
+7457;7;Channel Marketing;Telemarketing Manager;Termination;1;NorthAmericaMarketingB2B;Corporate Marketing NorthAmerica;NorthAmerica;NorthAmerica;77;1;A
+7458;8;;Tele-Sales Manager;Termination;1;NorthAmericaB2BVSB;VSB;NorthAmerica;NorthAmerica;77;1;A
+7459;8;;Tele-Sales Manager;Termination;1;NorthAmericaChan&SMBSMBSalVSB;VSB;NorthAmerica;NorthAmerica;77;1;A
+746;9;Test Engineering R&D;Test Engineering Team Lead;Data Change;0;R&DPDOWindowsConsTestContTest;Content Filtering Technologies Testing;PDO;Russia;77;1;A
+7460;7;Channel Marketing;Telemarketing Manager;Termination;1;NorthAmericaMarketingB2B;Corporate Marketing NorthAmerica;NorthAmerica;NorthAmerica;77;1;A
+7462;2;SecretaryAdministrative Assistant;Receptionist;Termination;1;FinanceEUUKAdmin;Administration;Finance;Europe;77;1;A
+7463;6;Regional B2B Technical Support;Technical Support Engineer;Termination;1;SupportAPACANZTechSupp;Technical Support;Support;APAC;77;1;A
+7464;6;Market Analysis;Digital QA Analyst;End Cont Wrkr;0;StrMktDigMktPlatfTechQA;Digital QA Analysis;StrMkt;Europe;77;1;A
+7465;5;Employee Relations;HR Administration Specialist;Termination;1;HRStaffAdmin;Staff Administration;HR;Russia;77;1;A
+7466;1;SecretaryAdministrative Assistant;Intern;Termination;1;R&DEndpointWinDev;Endpoint for Windows Development;R&D;Russia;77;1;A
+7467;7;Graphic Design;Graphic Designer;Data Change;0;R&DPMODUOGraphDes;Graphic Design;PMO;Russia;77;1;A
+7468;1;;Intern;Termination;1;EUBusMark;Business Marketing;EU;Europe;77;1;A
+7469;11;Software Engineering;Cloud Development Group Manager;Termination;1;R&DKFPDelivCloudDev;Cloud development;R&D;Russia;77;1;A
+747;10;Software Engineering;Senior Developer;Data Change;0;R&DTRAMWRInfraDvptWL;Whitelisting Infrastructure;TR;Russia;77;1;A
+7470;7;PR  Corporate Communication;Corporate Communications Manager;Termination;1;CorpCommPRAPAC;Corporate Communications APAC;CorpComm;APAC;77;1;A
+7471;8;Product Marketing;Product Marketing Manager;Termination;1;JapanProdDvptProdMkt;Product Marketing Japan;Japan;Japan;77;1;A
+7473;8;IT Service Development;Developer;Data Change;0;ITSrvsDvptProdServTools;Analytic Tools Development;IT;Russia;77;1;A
+7474;9;Software Engineering;Developer;Data Change;0;R&DPDOLinuxKICSNetwWebDev;KICS for Networks Web Development;PDO;Russia;77;1;A
+7475;4;Regional B2B Technical Support;Junior Technical Engineer;Transfer;0;SupportEUDACH&EE;Customer Support DACH & EE;Support;Europe;77;1;A
+7476;7;Channel Marketing;Marketing & Operations Manager DACH;Data Change;0;EUDACHMarketing;Marketing;EU;Europe;77;1;A
+7477;5;Accounting;Accountant;Data Change;0;FinanceEUDACHA&R;Accounting and Reporting DACH;Finance;Europe;77;1;A
+7478;5;Accounting;Accountant;Termination;1;FinanceEUDACHA&R;Accounting and Reporting DACH;Finance;Europe;77;1;A
+7479;7;Test Engineering R&D;Testing Engineer;Data Change;0;R&DPDOMobileTest;Mobile Solutions Testing;PDO;Russia;77;1;A
+748;14;General Finance;Head of Finance & Administration NorthAmerica;Data Change;0;FinanceNorthAmerica;Finance and Administration NorthAmerica;Finance;NorthAmerica;77;1;A
+7480;9;Software Engineering;Developer;Data Change;0;R&DPDOCoreTechNetwork;Network Technologies Development;PDO;Russia;77;1;A

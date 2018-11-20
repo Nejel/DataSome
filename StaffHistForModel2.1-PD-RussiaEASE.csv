@@ -1,16 +1,19 @@
-Y;M;EmplId;FullNameEng;Status;VacationDaysCollected;TerminationFact;Terminationdate;TerminationReason;Termreasoncategory;TopDept
-2018;1;138;Bogdanov Vadim Victorovich;Active;232,33;0;0;None;None;RnD
-2018;2;138;Bogdanov Vadim Victorovich;Active;234,67;0;0;None;None;RnD
-2018;3;138;Bogdanov Vadim Victorovich;Active;237;0;0;None;None;RnD
-2018;4;138;Bogdanov Vadim Victorovich;Active;239,33;0;0;None;None;RnD
-2018;5;138;Bogdanov Vadim Victorovich;Active;241,67;0;0;None;None;RnD
-2018;6;138;Bogdanov Vadim Victorovich;Active;244;0;0;None;None;RnD
-2018;7;138;Bogdanov Vadim Victorovich;Active;246,33;0;0;None;None;RnD
-2018;8;138;Bogdanov Vadim Victorovich;Active;248,67;0;0;None;None;RnD
-2018;9;138;Bogdanov Vadim Victorovich;Active;251;0;0;None;None;RnD
-2018;10;138;Bogdanov Vadim Victorovich;Active;253,33;0;0;None;None;TR
-2018;1;139;Bryxin Andrey Victorovich;Active;239,33;0;0;None;None;RnD
-2018;2;139;Bryxin Andrey Victorovich;Active;241,67;0;0;None;None;RnD
-2018;3;139;Bryxin Andrey Victorovich;Active;244;0;0;None;None;RnD
-2018;4;139;Bryxin Andrey Victorovich;Active;246,33;0;0;None;None;RnD
-2018;5;139;Bryxin Andrey Victorovich;Active;248,67;0;0;None;None;RnD
+Y;M;EmplId;Hiredate;FullNameEng;Status;VacationDaysCollected;TerminationFact;Terminationdate;TerminationReason;Termreasoncategory;TopDept;DepFull;StaffCountry;Location;HomeOffice;StaffTypeName;HC;Topdptreorg;Division;Region;LoS;DoB;Age;Gender;Grade;Manager;SPAN;Performance;Talent;CR;Averageageintheteam;Agediffwithteam;numberofteammates;Managersage;AgediffwithManager;Differentlocationwithmanager;Overtimehourscumul;Overtimehourspermonth
+2018;1;138;35822;Bogdanov Vadim Victorovich;Active;232;0;0;None;None;RnD;RnDAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20024;24627;50695;M;9;1089;0;3;0;1060;31518;1608;10;32876;1542;0;0;0
+2018;2;138;35822;Bogdanov Vadim Victorovich;Active;234;0;0;None;None;RnD;RnDAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20101;24627;50772;M;9;1089;0;3;0;1060;30646;1656;11;32953;1541;0;0;0
+2018;3;138;35822;Bogdanov Vadim Victorovich;Active;237;0;0;None;None;RnD;RnDAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20186;24627;50857;M;9;1089;0;3;0;1060;30731;1654;11;33038;1539;0;0;0
+2018;4;138;35822;Bogdanov Vadim Victorovich;Active;239;0;0;None;None;RnD;RnDTRAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20268;24627;50939;M;9;1089;0;3;0;1060;30813;1653;11;33120;1538;0;0;0
+2018;5;138;35822;Bogdanov Vadim Victorovich;Active;241;0;0;None;None;RnD;RnDTRAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20353;24627;51024;M;9;1089;0;3;0;1060;30895;1651;10;33205;1537;0;0;0
+2018;6;138;35822;Bogdanov Vadim Victorovich;Active;244;0;0;None;None;RnD;RnDTRAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20435;24627;51106;M;9;1089;0;3;0;1060;31781;1608;10;33287;1535;0;0;0
+2018;7;138;35822;Bogdanov Vadim Victorovich;Active;246;0;0;None;None;RnD;RnDTRAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20520;24627;51191;M;9;1089;0;3;0;1060;32739;1563;9;33372;1534;0;0;0
+2018;8;138;35822;Bogdanov Vadim Victorovich;Active;248;0;0;None;None;RnD;RnDTRAMWRAntiMWHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20605;24627;51276;M;9;1089;0;3;0;1060;34998;1465;11;33457;1533;0;0;0
+2018;9;138;35822;Bogdanov Vadim Victorovich;Active;251;0;0;None;None;RnD;RnDTRAMWRAMRHD&VRHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20687;24627;51358;M;9;1089;0;3;0;1060;31921;1608;16;33539;1531;0;0;0
+2018;10;138;35822;Bogdanov Vadim Victorovich;Active;253;0;0;None;None;TR;RnDTRAMWRAMRHD&VRHeuristic;Russian Federation;Moscow Office;0;Employee;1;TR;PD;Russian Federation;20772;24627;51443;M;9;1089;0;3;0;1060;31720;1621;18;33624;1530;0;0;0
+2018;1;139;35675;Bryxin Andrey Victorovich;Active;239;0;0;None;None;RnD;RnDEndpointKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20427;27003;44186;M;10;3547;0;3;0;1400;33248;1328;34;39915;1107;0;0;0
+2018;2;139;35675;Bryxin Andrey Victorovich;Active;241;0;0;None;None;RnD;RnDEndpointKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20504;27003;44263;M;10;3547;0;3;0;1400;33324;1328;34;39991;1107;0;0;0
+2018;3;139;35675;Bryxin Andrey Victorovich;Active;244;0;0;None;None;RnD;RnDEndpointKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20589;27003;44347;M;10;3547;0;3;0;1400;33409;1327;34;40076;1107;0;0;0
+2018;4;139;35675;Bryxin Andrey Victorovich;Active;246;0;0;None;None;RnD;RnDPDOEPMKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20671;27003;44430;M;10;3547;0;3;0;1440;36585;1214;24;40158;1106;0;0;0
+2018;5;139;35675;Bryxin Andrey Victorovich;Active;248;0;0;None;None;RnD;RnDPDOEPMKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20756;27003;44515;M;10;3547;0;3;0;1440;36670;1213;24;40243;1106;0;0;0
+2018;6;139;35675;Bryxin Andrey Victorovich;Active;251;0;0;None;None;RnD;RnDPDOEPMKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20838;27003;44597;M;10;3547;0;3;0;1440;36753;1213;24;40326;1106;0;0;0
+2018;7;139;35675;Bryxin Andrey Victorovich;Active;253;0;0;None;None;RnD;RnDPDOEPMKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;20923;27003;44682;M;10;332;0;3;0;1440;34975;1277;16;39076;1143;0;0;0
+2018;8;139;35675;Bryxin Andrey Victorovich;Active;229;0;0;None;None;RnD;RnDPDOEPMKSCDev;Russian Federation;Moscow Office;0;Employee;1;PDO;PD;Russian Federation;21008;27003;44767;M;10;332;0;3;0;1440;34821;1285;17;39161;1143;0;0;0
